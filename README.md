@@ -10,7 +10,7 @@ Remember that the Aeris equipment is configured with a Baud Rate of 34800 and ad
 
 The on/off command is as follows:
 
-10 1 - ON
-15 0 - OFF
+10 1 - ON.
+15 0 - OFF.
 
 # We need to type exactly like this in the serial monitor to send the commands, being 10 1 or 15 0
